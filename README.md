@@ -2,7 +2,7 @@
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on community projects
-- 📫 How to reach me. https://t.me/Khazratkulov_Sh
+- 📫 How to reach me. https://t.me/shokhzod_kh
 
 <!---
 ShokhzodKhazratkulov/ShokhzodKhazratkulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
