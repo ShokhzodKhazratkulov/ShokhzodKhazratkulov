@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShokhzodKhazratkulov
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m Data Analyst and Power Platform Developer
 - 💞️ I’m looking to collaborate on community projects
 - 📫 How to reach me. https://t.me/shokhzod_kh
 
